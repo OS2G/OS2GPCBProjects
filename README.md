@@ -10,3 +10,7 @@ Part Schematics - https://app.ultralibrarian.com/details/718f6c74-6ffb-11eb-9033
 Dr Bauer Kicard Intro Videos - https://youtube.com/@markatlnk5982?feature=shared
 
 RP2040 Spec Sheet - https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf
+
+Mechanical Keyboard Explained - https://www.daskeyboard.com/blog/parts-of-a-mechanical-keyboard/
+
+

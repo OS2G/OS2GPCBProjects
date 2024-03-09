@@ -8,6 +8,7 @@ Repo for the PCB projects
 - [Dr Bauer Kicard Intro Videos](https://youtube.com/@markatlnk5982?feature=shared)
 - [RP2040 Spec Sheet](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)
 - [Mechanical Keyboard Explained](https://www.daskeyboard.com/blog/parts-of-a-mechanical-keyboard/)
+- [Pico Keyboard](https://learn.adafruit.com/diy-pico-mechanical-keyboard-with-fritzing-circuitpython/overview)
 
 
 ## What Needs Done:

@@ -17,10 +17,10 @@ Repo for the PCB projects
 Kickoff The Project: Complete
 
 * Research:
-  - How do keyboards talk to a computer:
-  - How do we read that a switch has been pressed:
+  - How do keyboards talk to a computer: In Progress - Cameron
+  - How do we read that a switch has been pressed: In Progress - Cale
   - How do we address the leds to control them:
-  - How many gpio/controller ports do we need. AKA, do we need multiple controllers:
+  - How many gpio/controller ports do we need. AKA, do we need multiple controllers: In Progress - Jacob
 
 * PCB - Numpad:
   - Design Wiring Schematic:

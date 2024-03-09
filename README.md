@@ -14,3 +14,38 @@ RP2040 Spec Sheet - https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.p
 Mechanical Keyboard Explained - https://www.daskeyboard.com/blog/parts-of-a-mechanical-keyboard/
 
 
+# What Needs Done
+
+Kickoff The Project: Complete
+
+Case Design: 
+
+- Mounting:
+- Design Case:
+- 3d Print Case:
+
+PCB - Numpad:
+
+- Design Wiring Schematic:
+- Pick Parts:
+- Pick Switches/Keys:
+- Do PCB Connections:
+- Order PCB:
+- Solder:
+- Make Controller (software):
+- Test:
+- Make Walkthrough/Documentation:
+
+PCB -  Keyboard:
+
+- Design Wiring Schematic:
+- Pick Parts:
+- Pick Switches/Keys:
+- Do PCB Connections:
+- Order PCB:
+- Solder:
+- Make Controller (software):
+- Test:
+- Make Walkthrough/Documentation:
+
+

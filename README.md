@@ -14,6 +14,11 @@ Repo for the PCB projects
 
 Kickoff The Project: Complete
 
+* Research:
+  - How do keyboards talk to a computer:
+  - How do we read that a switch has been pressed:
+  - How do we address the leds to control them:
+
 * Case Design: 
   - Mounting:
   - Design Case:

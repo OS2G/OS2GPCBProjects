@@ -19,11 +19,6 @@ Kickoff The Project: Complete
   - How do we read that a switch has been pressed:
   - How do we address the leds to control them:
 
-* Case Design: 
-  - Mounting:
-  - Design Case:
-  - 3d Print Case:
-
 * PCB - Numpad:
   - Design Wiring Schematic:
   - Pick Parts:
@@ -34,6 +29,11 @@ Kickoff The Project: Complete
   - Make Controller (software):
   - Test:
   - Make Walkthrough/Documentation:
+
+* Case Design: 
+  - Mounting:
+  - Design Case:
+  - 3d Print Case:
 
 * PCB -  Keyboard:
   - Design Wiring Schematic:

@@ -9,6 +9,7 @@ Repo for the PCB projects
 - [RP2040 Spec Sheet](https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf)
 - [Mechanical Keyboard Explained](https://www.daskeyboard.com/blog/parts-of-a-mechanical-keyboard/)
 - [Pico Keyboard](https://learn.adafruit.com/diy-pico-mechanical-keyboard-with-fritzing-circuitpython/overview)
+- [Quantum Mechanical Keyboard(keyboard controller thing)](https://docs.qmk.fm/#/)
 
 
 ## What Needs Done:

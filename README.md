@@ -20,6 +20,7 @@ Kickoff The Project: Complete
   - How do keyboards talk to a computer:
   - How do we read that a switch has been pressed:
   - How do we address the leds to control them:
+  - How many gpio/controller ports do we need. AKA, do we need multiple controllers:
 
 * PCB - Numpad:
   - Design Wiring Schematic:
